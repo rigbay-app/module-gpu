@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (not released)
+## 0.1.0 (2026-11-13, pre-release)
 
 First version. Reads the first NVIDIA GPU through NVML (`nvml.dll` from the Windows system folder) and publishes eleven readings on the metrics bus: GPU
 load, memory controller load, board power and the power limit, graphics and memory clock, memory in use and total, the core temperature, the
